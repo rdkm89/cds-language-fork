@@ -215,6 +215,3 @@ def plot_learning_curve(estimator, title, X, y, axes=None, ylim=None, cv=None,
     plt.show()
     
     return None
-
-if __name__=="__main__":
-    pass
